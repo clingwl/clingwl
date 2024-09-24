@@ -8,12 +8,12 @@
 
 ### 个人博客项目
 
-| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Frosti&theme=material-palenight)](https://github.com/EveSunMaple/Frosti) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| [![Jieyou](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyoui&theme=material-palenight)](https://github.com/clingwl/jieyou) | [![Clog](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=Clog&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
 | --- | --- |
 
 ### Github 活跃度
 
-| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
+| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=clingwl&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
 | --- | --- |
 
 ## 计划
