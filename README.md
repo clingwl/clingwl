@@ -8,7 +8,7 @@
 
 ### 个人博客项目
 
-| [![Jieyou]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clingwl)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/clingwl/jieyou) | [![Clog](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=Clog&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| [![Jieyou]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/clingwl/jieyou) | [![Clog](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=Clog&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
 | --- | --- |
 
 ### Github 活跃度
