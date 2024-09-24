@@ -8,7 +8,7 @@
 
 ### 个人博客项目
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&radical)](https://github.com/clingwl/jieyou) | [![Clog](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=Clog&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) |
 | --- | --- |
 
 ### Github 活跃度
