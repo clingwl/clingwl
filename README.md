@@ -10,7 +10,7 @@
 
 ### 个人博客项目
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=CL-Docx-Get&theme=radical)](https://github.com/clingwl/jieyou) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=CL-Docx-Get&theme=radical)](https://github.com/clingwl/CL-Docx-Get) |
 | --- | --- |
 
 ### Github 活跃度
