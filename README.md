@@ -10,12 +10,12 @@
 
 ### 个人博客项目
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=jieyou&theme=radical)](https://github.com/clingwl/jieyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clingwl&repo=CL-Docx-Get&theme=radical)](https://github.com/clingwl/jieyou) |
 | --- | --- |
 
 ### Github 活跃度
 
-| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=clingwl&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
+| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=clingwl&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=clingwl&theme=material-palenight)](https://git.io/streak-stats) |
 | --- | --- |
 
 ## 计划
